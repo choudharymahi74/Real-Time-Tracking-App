@@ -1,6 +1,6 @@
 # Real-Time Tracking App
 
-🚀 [Live Demo](https://real-time-tracking-app-zpoi.onrender.com))
+🚀 ([Live Demo](https://real-time-tracking-app-zpoi.onrender.com))
 
 This is a real-time device tracking app built with Node.js, Express, Socket.IO, and EJS.
 
